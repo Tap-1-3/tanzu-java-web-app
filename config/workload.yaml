@@ -14,5 +14,5 @@ spec:
     git:
       ref:
         branch: main
-      url: https://github.com/vmware-tanzu/application-accelerator-samples.git
+      url: https://github.com/Tap-1-3/tanzu-java-web-app.git
     subPath: tanzu-java-web-app
